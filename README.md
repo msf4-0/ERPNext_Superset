@@ -81,7 +81,9 @@ In order to utilise the full integration between ERPNext and Frepple, you will n
     - [SQL Account](https://github.com/msf4-0/ERPNext-SQL-Accounting-Integration)
     - [Short Courses](https://github.com/Shakila-Sahira/ERPNext-Short-Courses)
     - [E-Commerce - Shopify](https://github.com/h-saurav1810/ERPNext-Shopify)
+    - [Superset - Integration ](https://github.com/HazreenZ/superset_erp)
 
+    
 3. For Windows & MacOS user, start from `Section 3`.
 4. For Ubuntu user, start from `Section 4`.
 
