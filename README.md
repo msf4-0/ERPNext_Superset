@@ -54,7 +54,7 @@
 <br>
 
 # Superset-Integration
-![Superset-Integration](images/suMain.png)
+![Superset-Integration](images/suModule.png)
 
 <br>
 
