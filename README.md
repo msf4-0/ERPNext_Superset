@@ -58,6 +58,11 @@ In order to utilise the full integration between ERPNext and Frepple, you will n
 
 <br>
 
+# Superset-Integration
+![Superset-Integration](images/suMain.png)
+
+<br>
+
 ## For ERPNext User
 
 ### 1. Integrated Resource Planning System IRPS
