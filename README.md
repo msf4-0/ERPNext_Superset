@@ -119,7 +119,7 @@ In order to utilise the full integration between ERPNext and Frepple, you will n
 2. Navigate to the cloned folder.
     - `cd ERPNext_Superset`
 
-3. In `enx-example`, you can change the variables that would be used in this installation process to your preference such as the following:
+3. In `env-example`, you can change the variables that would be used in this installation process to your preference such as the following:
     - Server port to host ERPNext,`ERPNEXT_SERVER_PORT`. Default is `8000`.
     - Database port,`MARIADB_SERVER_PORT`. Default is `3306`.
     - Site name `SITE_NAME`. Default is `custom-erpnext-nginx`.
