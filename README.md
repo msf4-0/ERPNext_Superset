@@ -109,7 +109,7 @@ In order to utilise the full integration between ERPNext and Frepple, you will n
 ### 5. Setup
 
 1. Clone this repo.
-    - `git clone https://github.com/h-saurav1810/ERPNext-ECommerce-Shopify`
+    - `git clone https://github.com/HazreenZ/ERPNext_Superset.git`
 
 2. Navigate to the cloned folder.
     - `cd ERPNext_Superset`
