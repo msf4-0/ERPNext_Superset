@@ -112,7 +112,7 @@ In order to utilise the full integration between ERPNext and Frepple, you will n
     - `git clone https://github.com/h-saurav1810/ERPNext-ECommerce-Shopify`
 
 2. Navigate to the cloned folder.
-    - `cd ERPNext-ECommerce-Shopify`
+    - `cd ERPNext_Superset`
 
 3. In `enx-example`, you can change the variables that would be used in this installation process to your preference such as the following:
     - Server port to host ERPNext,`ERPNEXT_SERVER_PORT`. Default is `8000`.
